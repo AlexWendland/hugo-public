@@ -1,0 +1,4 @@
+baseURL = 'https://awendland.co.uk/'
+languageCode = 'en-uk'
+title = 'Alex site'
+theme = 'ananke'
